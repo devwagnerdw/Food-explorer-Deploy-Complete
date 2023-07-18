@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="550" height="99" src="![204160165-1936c0db-539f-4a11-bf5e-1f3d3f789896](https://github.com/devwagnerdw/Food-explorer-Deploy-Complete/assets/103940637/c5bc96b0-2b6e-4a30-9002-4e9daf5a20bb)
+  <img width="550" height="99" src="https://user-images.githubusercontent.com/103940637/254103358-b71d8245-7602-497a-9c4c-76f7658f7333.png
 ">
 </p>
 
