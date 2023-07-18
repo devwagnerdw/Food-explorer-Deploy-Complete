@@ -15,3 +15,7 @@ Depois de se registrar na plataforma do Food Explorer, os usuários têm permiss
 
 ## 🎨 Layout
 A página inicial em formato desktop é vista na imagem abaixo:
+
+![foodexplorer](https://user-images.githubusercontent.com/103940637/254103734-5d10464f-209d-45c6-a09c-889b8ba4b26c.png)
+
+![foodexplorer-pratos](https://user-images.githubusercontent.com/103940637/254104022-67f3d92d-eb31-4dff-b160-fe48d7a46b85.png)
