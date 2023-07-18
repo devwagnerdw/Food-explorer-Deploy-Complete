@@ -1,7 +1,7 @@
 {
   "name": "food-explorer-backend",
   "version": "1.0.0",
-  "description": "API desenvolvida para o programa Explorer da Rocketseat.",
+  "description": "API desenvolvida por vagne alves para o Food Explorer.",
   "main": "index.js",
   "scripts": {
     "start": "pm2-runtime start ecosystem.config.js --env production",
