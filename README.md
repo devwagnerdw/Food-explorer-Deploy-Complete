@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="550" height="99" src="https://user-images.githubusercontent.com/103940637/254103358-b71d8245-7602-497a-9c4c-76f7658f7333.png
-">
+  <img width="550" height="99" src="https://user-images.githubusercontent.com/103940637/254103358-b71d8245-7602-497a-9c4c-76f7658f7333.png">
 </p>
 
 Este é o resultado do desafio final do Explorer, o Food Explorer.
