@@ -92,7 +92,7 @@ export function New({ isAdmin }) {
 
     setLoading(true);
     
-		const formData = new FormData();
+    const formData = new FormData();
     formData.append("image", image);
     formData.append("name", name);
     formData.append("category", category);
