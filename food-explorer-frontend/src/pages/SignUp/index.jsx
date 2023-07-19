@@ -25,9 +25,7 @@ export function SignUp() {
     }
 
     if (!/\S+@\S+\.\S+/.test(email)) {
-      // one or more characters followed by an '@', 
-      // followed by one or more characters, 
-      // followed by a '.', followed by one or more characters
+      
       return alert("Digite um e-mail válido!");
     }
 
